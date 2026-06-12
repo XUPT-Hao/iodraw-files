@@ -5,17 +5,17 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zS-DPgCdvrxMSLLUx5W0-2" value="协议（ModBus系列）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-170" width="560" height="200" as="geometry">
+          <mxGeometry x="120" y="-170" width="560" height="610" as="geometry">
             <mxRectangle x="250" y="180" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zS-DPgCdvrxMSLLUx5W0-4" value="控制服务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="240" width="560" height="200" as="geometry">
+          <mxGeometry x="-320" y="510" width="560" height="200" as="geometry">
             <mxRectangle x="250" y="180" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zS-DPgCdvrxMSLLUx5W0-5" value="实时数据服务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="560" height="200" as="geometry">
+          <mxGeometry x="440" y="510" width="560" height="200" as="geometry">
             <mxRectangle x="250" y="180" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
