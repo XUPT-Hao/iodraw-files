@@ -14,6 +14,11 @@
             <mxRectangle x="250" y="180" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zS-DPgCdvrxMSLLUx5W0-5" value="实时数据服务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="560" height="200" as="geometry">
+            <mxRectangle x="250" y="180" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
