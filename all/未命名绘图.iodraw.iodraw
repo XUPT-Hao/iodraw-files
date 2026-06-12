@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zS-DPgCdvrxMSLLUx5W0-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="560" height="570" as="geometry">
+        <mxCell id="zS-DPgCdvrxMSLLUx5W0-2" value="协议（ModBus系列）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="560" height="570" as="geometry">
             <mxRectangle x="250" y="180" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
